@@ -8,3 +8,5 @@
 
 
 ![alt text](https://github.com/pmndrs/react-three-fiber/assets/95327709/fd83a070-cdd5-4383-8dde-ed91f9c84282)
+
+![alt text](https://github.com/pieroproietti/penguins-blog/assets/95327709/bb2523fe-af71-4c2b-a690-8e45b40ae86e)
